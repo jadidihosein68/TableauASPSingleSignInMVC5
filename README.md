@@ -1,1 +1,1 @@
-# Tableau and ASP.net MVC 5 single sign in for VIZ
+# Tableau and ASP.net MVC 5 Trusted Authentication
